@@ -88,7 +88,7 @@
 
 `Markdown` · `Python` · `GitHub Actions` · `CC BY-NC-SA 4.0`
 
-[代码库](https://github.com/coolchengSAMA/drg-zh-library) · [官方术语索引](https://github.com/coolchengSAMA/drg-zh-library/tree/main/DRG资料库/99-来源与索引) · [发布包与词表](https://github.com/coolchengSAMA/drg-zh-library/tree/main/dist)
+[代码库](https://github.com/coolchengSAMA/drg-zh-library) · [官方术语索引](https://github.com/coolchengSAMA/drg-zh-library/tree/main/DRG资料库/99-来源与索引)
 
 <sub>与 Ghost Ship Games 无隶属关系；不分发解包出的游戏数据文件。</sub>
 
