@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="520" viewBox="0 0 720 520" role="img" aria-label="OPERATOR FILE // 干员档案 — coolcheng">
+<title>OPERATOR FILE // 干员档案 — coolcheng</title>
+<defs>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+<path d="M0 32V0h32" fill="none" stroke="#151A1E" stroke-width="1"/>
+</pattern>
+<pattern id="hazard" width="28" height="28" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+<rect width="28" height="28" fill="#14171A"/>
+<rect width="14" height="28" fill="#FFD200"/>
+</pattern>
+<linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#FFD200" stop-opacity="0"/>
+<stop offset=".5" stop-color="#FFD200" stop-opacity=".10"/>
+<stop offset="1" stop-color="#FFD200" stop-opacity="0"/>
+</linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5">
+<stop offset="0" stop-color="#FFD200" stop-opacity=".11"/>
+<stop offset="1" stop-color="#FFD200" stop-opacity="0"/>
+</radialGradient>
+<style>
+.caret{animation:blink 1.1s steps(1,end) infinite}
+.led{animation:blink 1.7s ease-in-out infinite}
+.scan{animation:sweep 7.5s linear infinite}
+.diamond{animation:pulse 3.4s ease-in-out infinite}
+@keyframes blink{0%,46%{opacity:1}50%,100%{opacity:.2}}
+@keyframes sweep{0%{transform:translateY(0)}100%{transform:translateY(630px)}}
+@keyframes pulse{0%,100%{opacity:.95}50%{opacity:.35}}
+@media (prefers-reduced-motion: reduce){.caret,.led,.scan,.diamond{animation:none}}
+</style>
+</defs>
+<rect width="720" height="520" fill="#0A0C0E"/>
+<rect width="720" height="520" fill="url(#grid)"/>
+<ellipse cx="518" cy="40" rx="302" ry="250" fill="url(#glow)"/>
+<g transform="translate(360,132) scale(0.7931)">
+<circle r="70" fill="none" stroke="#242A30" stroke-width="1" stroke-dasharray="3 7" opacity=".8"/>
+<path d="M0 -58 50.2 -29 50.2 29 0 58 -50.2 29 -50.2 -29Z" fill="#14181C" stroke="#FFD200" stroke-width="2"/>
+<path d="M0 -42 36.4 -21 36.4 21 0 42 -36.4 21 -36.4 -21Z" fill="none" stroke="#242A30" stroke-width="1"/>
+<path d="M-17 -16 -1 0 -17 16" fill="none" stroke="#FFD200" stroke-width="5" stroke-linecap="square"/>
+<path d="M5 -16 21 0 5 16" fill="none" stroke="#FFD200" stroke-width="5" stroke-linecap="square"/>
+</g>
+<text x="360" y="228" fill="#FFD200" font-family="'Cascadia Mono','Consolas','SF Mono','JetBrains Mono',Menlo,'Courier New',monospace" font-size="14" letter-spacing="4" text-anchor="middle">OPERATOR FILE // 干员档案</text>
+<text x="360" y="286" fill="#F1F3F4" font-family="'Bahnschrift Condensed','Arial Narrow','Roboto Condensed',Tahoma,sans-serif" font-size="44" letter-spacing="1.5" font-weight="700" text-anchor="middle">coolcheng</text>
+<text x="360" y="352" fill="#98A1A9" font-family="'Cascadia Mono','Consolas','SF Mono','JetBrains Mono',Menlo,'Courier New',monospace" font-size="15" letter-spacing="1" text-anchor="middle">// STUDENT · 学生 · GAMER</text>
+<circle class="led" cx="196" cy="378" r="4" fill="#FFD200"/>
+<text x="360" y="383" font-family="'Cascadia Mono','Consolas','SF Mono','JetBrains Mono',Menlo,'Courier New',monospace" font-size="13" letter-spacing="1" text-anchor="middle"><tspan fill="#98A1A9">STATUS: </tspan><tspan fill="#FFD200" font-weight="700">ONLINE</tspan><tspan fill="#98A1A9"> — OPEN FOR NEW OPS</tspan></text>
+<path d="M48 404H646L672 430V496H48Z" fill="#14181C" stroke="#242A30" stroke-width="1"/>
+<path d="M48 438H672" stroke="#242A30" stroke-width="1"/>
+<text x="72" y="428" fill="#FFD200" font-family="'Cascadia Mono','Consolas','SF Mono','JetBrains Mono',Menlo,'Courier New',monospace" font-size="13" letter-spacing="4">TERMINAL READOUT</text>
+<circle class="led" cx="617" cy="423" r="3.5" fill="#FFD200"/>
+<text x="672" y="428" fill="#98A1A9" font-family="'Cascadia Mono','Consolas','SF Mono','JetBrains Mono',Menlo,'Courier New',monospace" font-size="13" letter-spacing="3" text-anchor="end">LIVE</text>
+<text x="72" y="464" fill="#98A1A9" font-family="'Cascadia Mono','Consolas','SF Mono','JetBrains Mono',Menlo,'Courier New',monospace" font-size="13" letter-spacing="2">ID</text>
+<path d="M146 460H192" stroke="#242A30" stroke-width="1" stroke-dasharray="2 3"/>
+<text x="202" y="464" fill="#F1F3F4" font-family="'Cascadia Mono','Consolas','SF Mono','JetBrains Mono',Menlo,'Courier New',monospace" font-size="13" letter-spacing="1">coolcheng</text>
+<text x="396" y="464" fill="#98A1A9" font-family="'Cascadia Mono','Consolas','SF Mono','JetBrains Mono',Menlo,'Courier New',monospace" font-size="13" letter-spacing="2">CLASS</text>
+<path d="M470 460H516" stroke="#242A30" stroke-width="1" stroke-dasharray="2 3"/>
+<text x="526" y="464" fill="#F1F3F4" font-family="'Cascadia Mono','Consolas','SF Mono','JetBrains Mono',Menlo,'Courier New',monospace" font-size="13" letter-spacing="1">STUDENT · 学生</text>
+<text x="72" y="488" fill="#98A1A9" font-family="'Cascadia Mono','Consolas','SF Mono','JetBrains Mono',Menlo,'Courier New',monospace" font-size="13" letter-spacing="2">BASE</text>
+<path d="M146 484H192" stroke="#242A30" stroke-width="1" stroke-dasharray="2 3"/>
+<text x="202" y="488" fill="#F1F3F4" font-family="'Cascadia Mono','Consolas','SF Mono','JetBrains Mono',Menlo,'Courier New',monospace" font-size="13" letter-spacing="1">CN</text>
+<text x="396" y="488" fill="#98A1A9" font-family="'Cascadia Mono','Consolas','SF Mono','JetBrains Mono',Menlo,'Courier New',monospace" font-size="13" letter-spacing="2">SIGNAL</text>
+<path d="M470 484H516" stroke="#242A30" stroke-width="1" stroke-dasharray="2 3"/>
+<text x="526" y="488" fill="#F1F3F4" font-family="'Cascadia Mono','Consolas','SF Mono','JetBrains Mono',Menlo,'Courier New',monospace" font-size="13" letter-spacing="1">ONLINE</text>
+<rect x="0" y="507" width="720" height="1" fill="#242A30"/>
+<rect x="0" y="508" width="720" height="12" fill="url(#hazard)" opacity=".9"/>
+<rect x="0" y="0" width="150" height="5" fill="#FFD200"/>
+<g fill="none" stroke="#FFD200" stroke-width="2" stroke-linecap="square" opacity=".9">
+<path d="M20 42V20H42"/>
+<path d="M678 20H700V42"/>
+<path d="M20 466V488H42"/>
+<path d="M678 488H700V466"/>
+</g>
+<g fill="none" stroke="#242A30" stroke-width="1" opacity=".5">
+<path d="M54 20H90"/>
+
+</g>
+<rect class="scan" x="0" y="-110" width="720" height="110" fill="url(#scan)"/>
+<rect x="719" y="0" width="1" height="520" fill="#242A30" opacity=".6"/>
+</svg>
