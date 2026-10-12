@@ -124,5 +124,5 @@
 <img src="https://raw.githubusercontent.com/coolchengSAMA/coolchengSAMA/main/assets/footer.svg" width="100%" alt="END OF FILE">
 
 <div align="center">
-<sub>LAST SYNC · 2026-10　|　本页视觉为原创设计，风格致敬《明日方舟》<br>未使用其官方 Logo、字体或立绘素材</sub>
+<sub>LAST SYNC · 2026-10　|　COOLCHENG</sub>
 </div>
